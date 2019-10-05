@@ -1,0 +1,54 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "category": "City",
+            "content": "City content"
+        },
+        {
+            "id": 2,
+            "category": "World",
+            "content": "World content"
+        },
+        {
+            "id": 3,
+            "category": "Sports",
+            "content": "Sports content"
+        },
+        {
+            "id": 4,
+            "category": "Health",
+            "content": "Health content"
+        },
+        {
+            "id": 5,
+            "category": "Education",
+            "content": "Education content"
+        },
+        {
+            "id": 6,
+            "category": "Business",
+            "content": "Business content"
+        },
+        {
+            "id": 7,
+            "category": "TV",
+            "content": "TV content"
+        },
+        {
+            "id": 8,
+            "category": "Entertainment",
+            "content": "Entertainment content"
+        },
+        {
+            "id": 9,
+            "category": "Life & Style",
+            "content": "Life & Style content"
+        },
+        {
+            "id": 10,
+            "category": "Blogs",
+            "content": "Blogs content"
+        }
+    ]
+}
