@@ -12,7 +12,7 @@ export class NewsAppService {
   constructor(private http: HttpClient) { }
 
   getNews() {
-    return this.http.get<Array<Article>>('http://localhost:3000/news');
+    return this.http.get<Array<Article>>('https://my-json-server.typicode.com/Archana-LN/news/news');
   }
 
 }
